@@ -12,6 +12,7 @@ while True:
   elif key & 0xff == ord('s'):
     # bool imwrite( constString& filename, InputArrayimg, conststd::vector<int>& params = std::vector<int>());
     cv2.imwrite('./temp/test-write.png', img_mat)
+    break
 
 cv2.destroyAllWindows()
 
