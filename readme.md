@@ -14,5 +14,6 @@ pip3 install numpy matplotlib opencv_python
 4. 鼠标事件 mouse_control.py
 5. trackbar控件 trackbar.py
 6. 色彩空间转换 cvt_color.py
+7. numpy使用 numpy_demo.py
 
 
