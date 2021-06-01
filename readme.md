@@ -15,5 +15,9 @@ pip3 install numpy matplotlib opencv_python
 5. trackbar控件 trackbar.py
 6. 色彩空间转换 cvt_color.py
 7. numpy使用 numpy_demo.py
+8. mat深浅拷贝 mat_copy.py
+9. 访问图像属性 mat_info.py
+10. 通道分割和合并 channel_split_merge.py
+11. 基础图形绘制 base_shapes.py
 
 
