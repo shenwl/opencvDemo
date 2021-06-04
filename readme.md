@@ -18,6 +18,7 @@ pip3 install numpy matplotlib opencv_python
 8. mat深浅拷贝 mat_copy.py
 9. 访问图像属性 mat_info.py
 10. 通道分割和合并 channel_split_merge.py
-11. 基础图形绘制 base_shapes.py
+11. 基础图绘制（形线/矩形/圆） base_shapes1.py
+12. 基础图绘制（椭圆） base_shape_ellipse.py
 
 
