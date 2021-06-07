@@ -20,5 +20,6 @@ pip3 install numpy matplotlib opencv_python
 10. 通道分割和合并 channel_split_merge.py
 11. 基础图绘制（形线/矩形/圆） base_shapes1.py
 12. 基础图绘制（椭圆） base_shape_ellipse.py
+12. 基础图绘制（多边形/填充） base_shape_polylines.py
 
 
