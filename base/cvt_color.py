@@ -25,6 +25,7 @@ while True:
 
   # 转换色彩空间
   cvt_img = cv2.cvtColor(img, cur_color_space)
+  print('cur_color_space: ', cur_color_space)
 
   cv2.imshow(WIN_NAME, cvt_img)
 
